@@ -1,0 +1,8 @@
+import sys
+print('python: {}'.fromat(sys.version))
+import scipy
+print('scipy: {}'.format(scipy._version_))
+import numpy
+print('numpy: {}'.format(numpy._version_))
+import matplotlib
+print('matplotlib: {}'yu
